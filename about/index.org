@@ -1,0 +1,23 @@
+#+TITLE: About
+
+This blog is a notebook used to organize books and literature.
+
+If it's an interesting blog, please contact:[[mailto:cheerfulloster@protonmail.com][Blog Mail]]
+
+Articles published in the past：
+
+Lv C#, Li F#, Li X#, Tian Y#, Zhang Y, Sheng X, Song Y, Meng Q, Yuan S, Luan L,
+Andl T, *Feng X*, Jiao B, Xu M, Plikus MV, Dai X, Lengner C, Cui W, Ren F, Shuai
+J, Millar SE, Yu Z*. MiR-31 promotes mammary stem cell expansion and breast
+tumorigenesis by suppressing Wnt signaling antagonists. Nat Commun. 2017 Oct
+19;8(1):1036. [[https://doi.org/10.1038/s41467-017-01059-5][DOI Link]]
+
+
+Ke H#, Zhao L#, *Feng X*, Xu H, Zou L, Yang Q, Su X, Peng L, Jiao B*. NEAT1 is
+Required for Survival of Breast Cancer Cells Through FUS and miR-548.Gene Regul
+Syst Bio. 2016 Apr 27;10(Suppl 1):11-7. [[https://doi.org/10.0.16.41/GRSB.S29414][DOI Link]]
+
+
+Yu, W#, *Xu, F#*. Lan, G*. Baowei*,J. Imprinted genes: important regulators in
+development. Yi Chuan. 2016 Jun 20;38(6):508-522. [[https://doi.org/10.0.63.160/j.yczz.15-512][DOI Link]]
+ 
